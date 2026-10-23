@@ -1,0 +1,140 @@
+What does رَبّ mean?`lord
+What does إِلَٰهَ mean?`god`deity
+What does ءَالِهَة mean?`gods`deities
+What does عَبۡد mean?`slave`servant
+What does عِبَاد mean?`slaves`servants
+What does رَسُول mean?`messenger
+What does رُسُل mean?`messengers
+What does نَبِي mean?`prophet
+What does نَّبِيِّـۧنَ mean?`prophets
+What does نَّبِيُّونَ mean?`prophets
+What does أَنۢبِيَآءَ mean?`prophets
+What does مَلَك mean?`angel
+What does مَلَٰٓئِكَة mean?`angels
+What does شَيۡطَٰن mean?`satan`devil
+What does شَيَٰطِين mean?`devils`satans
+What does رُوح mean?`spirit`soul
+What does نَفۡس mean?`soul`self
+What does أَنفُس mean?`souls`selves
+What does إِنسَٰن mean?`human`mankind
+What does مَوۡتَىٰ mean?`the dead
+What does إِبۡرَٰهِـۧم mean?`Abraham
+What does مُوسَىٰ mean?`Moses
+What does عِيسَى ٱبۡنِ مَرۡيَم mean?`Jesus son of Mary`Jesus
+What does إِسۡحَٰق mean?`Isaac
+What does إِسۡمَٰعِيلَ mean?`Ishmael
+What does يَعۡقُوب mean?`Jacob`Israel
+What does يُوسُف mean?`Joseph
+What does دَاوُۥد mean?`David
+What does سُلَيۡمَٰن mean?`Solomon
+What does نُوح mean?`Noah
+What does لُوط mean?`Lot
+What does هُود mean?`Hud
+What does صَٰلِح mean?`Saleh
+What does شُعَيۡب mean?`Shuaib
+What does زَكَرِيا mean?`Zachariah
+What does يَحۡيَىٰ mean?`John
+What does أَيُّوب mean?`Job
+What does هَٰرُونَ mean?`Aaron
+What does ءَادَم mean?`Adam
+What does فِرۡعَوۡن mean?`Pharaoh
+What does ٱلۡقُرۡءَان mean?`the Quran`Quran
+What does ٱلتَّوۡرَىٰة mean?`the Torah`Torah
+What does ٱلۡإِنجِيلِ mean?`the Gospel`Gospel
+What does ٱلۡبَيۡت mean?`the Kaaba`Kaaba
+What does مَسۡجِد mean?`mosque
+What does مَسَٰجِد mean?`mosques
+What does ٱلۡمَدِينَة mean?`Medina`the city
+What does صَلَوٰةَ mean?`prayer
+What does زَّكَوٰةَ mean?`charity`zakat
+What does حَلَٰل mean?`permissible`halal
+What does حَرَام mean?`forbidden`haram
+What does دِين mean?`religion`faith
+What does تَقۡوى mean?`piety`fear of Allah`taqwa
+What does صِرَٰط mean?`path`way
+What does سَبِيل mean?`way`path
+What does حَقّ mean?`truth`right
+What does بَٰطِلَ mean?`falsehood`false
+What does طَيِّب mean?`good`pure
+What does طَيِّبَٰتِ mean?`good things`pure things
+What does حَسَنَة mean?`good deed`good
+What does سَيِّئَة mean?`bad deed`sin`evil
+What does سَيِّئَات mean?`sins`evils
+What does إِثۡم mean?`sin
+What does ذَنۢب mean?`sin
+What does ذُنُوب mean?`sins
+What does عَذَاب mean?`punishment`torment
+What does عِقَاب mean?`punishment`retribution
+What does جُنَاحَ mean?`sin`blame
+What does أَجۡر mean?`reward
+What does أُجُور mean?`rewards
+What does جَزَاء mean?`reward`recompense
+What does ثَواب mean?`reward
+What does فَضۡل mean?`grace`favor
+What does نِعۡمَة mean?`favor`blessing
+What does ءَالَآء mean?`favors`blessings
+What does رَحۡمَة mean?`mercy
+What does حَمۡد mean?`praise
+What does سَلَٰم mean?`peace
+What does حِكۡمَة mean?`wisdom
+What does قُوة mean?`power`strength
+What does مُلۡك mean?`dominion`kingdom
+What does سُلۡطَٰن mean?`authority`power
+What does عَرْش mean?`throne
+What does عَهۡد mean?`covenant`pledge
+What does مِيثَٰقَ mean?`covenant`pledge
+What does إِذۡن mean?`permission
+What does شَهَٰدَة mean?`testimony`witness
+What does شُهَدَاء mean?`witnesses
+What does شَهِيد mean?`witness
+What does وَلِيّ mean?`guardian`supporter
+What does أَوۡلِيَآء mean?`guardians`supporters
+What does وَكِيل mean?`guardian`protector
+What does نَصِير mean?`helper`supporter
+What does حَفِيظ mean?`protector
+What does وَيۡل mean?`woe
+What does عَدُو mean?`enemy
+What does أَعۡدَآء mean?`enemies
+What does شَرِيك mean?`associate`partner
+What does شُرَكَآء mean?`associates`partners
+What does أَصۡحَٰب mean?`companions
+What does صَاحِب mean?`companion
+What does مَلَأ mean?`leaders`chiefs
+What does فَرِيق mean?`group`party
+What does قِيَٰمَةِ mean?`resurrection
+What does دُنۡيَا mean?`this world`worldly life`world
+What does ٱلۡأٓخِرَة mean?`the hereafter`hereafter
+What does حِسَاب mean?`reckoning`judgment
+What does لِقَآء mean?`meeting
+What does أَجَل mean?`term`appointed time
+What does عَٰقِبَة mean?`end`outcome
+What does أَمۡر mean?`matter`affair`command
+What does فِتۡنَة mean?`trial`persecution`temptation
+What does حَيْثُ mean?`wherever`where
+What does أَيۡنَمَا mean?`wherever
+What does إنَّمَا mean?`verily`indeed
+What does لَوۡلَا mean?`why not`but for
+What does لَعَلّ mean?`perhaps`maybe
+What does عَسَى mean?`perhaps`possibly
+What does لَن mean?`will not`never
+What does لَم mean?`did not`not
+What does بَعۡض mean?`some`others
+What does (مِنۡ) قَبۡل mean?`before
+What does (مِنۡ) بَعۡد mean?`after
+What does أَنۡعَام mean?`cattle`livestock
+What does أَمۡوَٰل mean?`wealth`property
+What does أَبۡوَٰب mean?`doors`gates
+What does مُجۡرِمِين mean?`guilty`criminals`wrongdoers
+What does مُنَٰفِقِين mean?`hypocrites
+What does كَافِرِين mean?`disbelievers
+What does مُؤۡمِنِين mean?`believers
+What does صَالِحِين mean?`righteous
+What does أَيُّوب mean?`Job
+What does عَٰلَمِين mean?`worlds
+What does أَجۡمَعِينَ mean?`all`everyone
+What does أَلۡبَٰب mean?`minds`intellects`understanding
+What does أَبۡصَٰر mean?`sights`vision`eyes
+What does سَوَآء mean?`equal`same`straight
+What does قَوۡل mean?`saying`speech
+What does حَدِيث mean?`speech`discourse
+What does مَثَل mean?`example`parable

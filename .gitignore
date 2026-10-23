@@ -1,0 +1,14 @@
+.DS_Store
+node_modules/
+dist/
+.env
+.env.local
+*.db
+*.db-shm
+*.db-wal
+coverage/
+commands.json
+migration-report.json
+data/
+artifacts/
+pnpm-debug.log

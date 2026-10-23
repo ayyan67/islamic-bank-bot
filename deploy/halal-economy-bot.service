@@ -1,0 +1,22 @@
+[Unit]
+Description=HalalEconomyBot Discord service
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/srv/halal-economy-bot/current
+EnvironmentFile=/srv/halal-economy-bot/shared/.env
+Environment=NODE_ENV=production
+Environment=NODE_OPTIONS=--max-old-space-size=384
+ExecStart=/usr/bin/env pnpm start
+Restart=on-failure
+RestartSec=5
+StartLimitIntervalSec=120
+StartLimitBurst=10
+MemoryMax=500M
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=halal-economy-bot
+
+[Install]
+WantedBy=multi-user.target

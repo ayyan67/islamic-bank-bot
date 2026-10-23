@@ -1,0 +1,97 @@
+#!/usr/bin/env bash
+# botctl — operational CLI for HalalEconomyBot with explicit feedback.
+# Installed to /usr/local/bin/botctl by deploy.sh.
+set -euo pipefail
+
+SERVICE="halal-economy-bot"
+APP_DIR="/srv/halal-economy-bot"
+DB_PATH="$APP_DIR/shared/data/halal-economy.db"
+BACKUP_DIR="/root/backups"
+
+ok()   { printf '  \033[32m✔\033[0m %s\n' "$1"; }
+fail() { printf '  \033[31m✘\033[0m %s\n' "$1"; }
+step() { printf '\033[36m▸\033[0m %s\n' "$1"; }
+
+state() { systemctl is-active "$SERVICE" 2>/dev/null || true; }
+
+show_status() {
+  local st
+  st="$(state)"
+  if [[ "$st" == "active" ]]; then
+    ok "service is running"
+  else
+    fail "service is $st"
+  fi
+  systemctl show "$SERVICE" -p MainPID -p MemoryCurrent -p ActiveEnterTimestamp --value | {
+    read -r pid; read -r mem; read -r since
+    [[ "$pid" != "0" && -n "$pid" ]] && echo "    pid:     $pid"
+    [[ -n "$mem" && "$mem" != "[not set]" ]] && echo "    memory:  $((mem / 1024 / 1024)) MB"
+    [[ -n "$since" ]] && echo "    since:   $since"
+  }
+  echo "    release: $(readlink -f "$APP_DIR/current" 2>/dev/null | xargs -r basename)"
+}
+
+case "${1:-help}" in
+  start)
+    step "Starting $SERVICE..."
+    systemctl start "$SERVICE"
+    sleep 2
+    [[ "$(state)" == "active" ]] && ok "started" || { fail "failed to start — recent logs:"; journalctl -u "$SERVICE" -n 15 --no-pager; exit 1; }
+    ;;
+  stop)
+    step "Stopping $SERVICE..."
+    systemctl stop "$SERVICE"
+    [[ "$(state)" != "active" ]] && ok "stopped" || { fail "still running"; exit 1; }
+    ;;
+  restart)
+    step "Restarting $SERVICE..."
+    systemctl restart "$SERVICE"
+    sleep 2
+    [[ "$(state)" == "active" ]] && ok "restarted" || { fail "failed to restart — recent logs:"; journalctl -u "$SERVICE" -n 15 --no-pager; exit 1; }
+    ;;
+  status)
+    show_status
+    ;;
+  logs)
+    journalctl -u "$SERVICE" -n "${2:-30}" --no-pager
+    ;;
+  follow)
+    journalctl -u "$SERVICE" -f
+    ;;
+  errors)
+    journalctl -u "$SERVICE" -p err --since "${2:-24 hours ago}" --no-pager
+    ;;
+  backup)
+    mkdir -p "$BACKUP_DIR"
+    STAMP="$(date +%Y%m%d-%H%M%S)"
+    OUT="$BACKUP_DIR/halal-economy-$STAMP.tar.gz"
+    step "Snapshotting database..."
+    sqlite3 "$DB_PATH" ".backup '$BACKUP_DIR/db-$STAMP.db'"
+    [[ "$(sqlite3 "$BACKUP_DIR/db-$STAMP.db" 'PRAGMA integrity_check;')" == "ok" ]] && ok "integrity check passed" || { fail "integrity check FAILED"; exit 1; }
+    step "Archiving snapshot + config..."
+    tar czf "$OUT" -C / \
+      "${BACKUP_DIR#/}/db-$STAMP.db" \
+      srv/halal-economy-bot/shared/.env \
+      srv/halal-economy-bot/shared/data/feature-requests.json \
+      etc/systemd/system/$SERVICE.service
+    rm -f "$BACKUP_DIR/db-$STAMP.db"
+    ok "backup written: $OUT ($(du -h "$OUT" | cut -f1))"
+    step "Pruning backups older than 14 days..."
+    find "$BACKUP_DIR" -name 'halal-economy-*.tar.gz' -mtime +14 -delete
+    ok "done"
+    ;;
+  *)
+    cat <<'EOF'
+botctl — HalalEconomyBot operations
+
+  botctl start            start the bot (verifies it stays up)
+  botctl stop             stop the bot (confirms it stopped)
+  botctl restart          restart the bot (verifies it stays up)
+  botctl status           service state, pid, memory, current release
+  botctl logs [n]         last n log lines (default 30)
+  botctl follow           live log tail
+  botctl errors [since]   error-level logs (default: 24 hours ago)
+  botctl backup           consistent DB snapshot + config -> /root/backups
+EOF
+    ;;
+esac

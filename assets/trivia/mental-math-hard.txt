@@ -1,0 +1,200 @@
+What is 23 × 7?`161
+What is 14 × 6?`84
+What is 37 × 3?`111
+What is 19 × 8?`152
+What is 46 × 5?`230
+What is 33 × 9?`297
+What is 27 × 4?`108
+What is 53 × 6?`318
+What is 18 × 7?`126
+What is 42 × 8?`336
+What is 67 × 3?`201
+What is 29 × 5?`145
+What is 36 × 7?`252
+What is 54 × 4?`216
+What is 81 × 6?`486
+What is 15 × 9?`135
+What is 48 × 3?`144
+What is 63 × 5?`315
+What is 77 × 4?`308
+What is 38 × 8?`304
+What is 56 × 7?`392
+What is 91 × 3?`273
+What is 24 × 9?`216
+What is 43 × 6?`258
+What is 72 × 4?`288
+What is 85 × 7?`595
+What is 31 × 8?`248
+What is 17 × 6?`102
+What is 69 × 5?`345
+What is 44 × 9?`396
+What is 58 × 3?`174
+What is 26 × 7?`182
+What is 93 × 4?`372
+What is 34 × 8?`272
+What is 47 × 6?`282
+What is 78 × 5?`390
+What is 16 × 9?`144
+What is 62 × 7?`434
+What is 83 × 4?`332
+What is 39 × 6?`234
+What is 25 × 16?`400
+What is 15 × 24?`360
+What is 12 × 35?`420
+What is 50 × 17?`850
+What is 25 × 32?`800
+What is 20 × 45?`900
+What is 15 × 18?`270
+What is 30 × 27?`810
+What is 25 × 44?`1100
+What is 40 × 23?`920
+What is 50 × 19?`950
+What is 15 × 36?`540
+What is 12 × 75?`900
+What is 25 × 28?`700
+What is 20 × 37?`740
+What is 35 × 14?`490
+What is 45 × 16?`720
+What is 50 × 13?`650
+What is 25 × 36?`900
+What is 15 × 48?`720
+What is 168 ÷ 7?`24
+What is 144 ÷ 6?`24
+What is 225 ÷ 9?`25
+What is 192 ÷ 8?`24
+What is 156 ÷ 4?`39
+What is 270 ÷ 5?`54
+What is 196 ÷ 7?`28
+What is 288 ÷ 6?`48
+What is 252 ÷ 9?`28
+What is 320 ÷ 8?`40
+What is 135 ÷ 5?`27
+What is 294 ÷ 7?`42
+What is 234 ÷ 6?`39
+What is 360 ÷ 8?`45
+What is 186 ÷ 3?`62
+What is 432 ÷ 9?`48
+What is 175 ÷ 7?`25
+What is 312 ÷ 4?`78
+What is 490 ÷ 5?`98
+What is 216 ÷ 8?`27
+What is 378 ÷ 6?`63
+What is 245 ÷ 7?`35
+What is 396 ÷ 9?`44
+What is 456 ÷ 8?`57
+What is 342 ÷ 6?`57
+What is 279 ÷ 9?`31
+What is 364 ÷ 4?`91
+What is 504 ÷ 7?`72
+What is 468 ÷ 6?`78
+What is 392 ÷ 8?`49
+What is 11²?`121
+What is 12²?`144
+What is 13²?`169
+What is 14²?`196
+What is 15²?`225
+What is 16²?`256
+What is 17²?`289
+What is 18²?`324
+What is 19²?`361
+What is 21²?`441
+What is 22²?`484
+What is 23²?`529
+What is 24²?`576
+What is 25²?`625
+What is 26²?`676
+What is 27²?`729
+What is 28²?`784
+What is 29²?`841
+What is 31²?`961
+What is 32²?`1024
+What is 15% of 240?`36
+What is 25% of 360?`90
+What is 10% of 870?`87
+What is 20% of 450?`90
+What is 50% of 378?`189
+What is 75% of 200?`150
+What is 5% of 600?`30
+What is 30% of 150?`45
+What is 25% of 480?`120
+What is 20% of 375?`75
+What is 10% of 530?`53
+What is 15% of 400?`60
+What is 50% of 246?`123
+What is 75% of 320?`240
+What is 25% of 720?`180
+What is 20% of 650?`130
+What is 30% of 400?`120
+What is 5% of 840?`42
+What is 10% of 990?`99
+What is 50% of 574?`287
+What is 75% of 480?`360
+What is 25% of 560?`140
+What is 15% of 500?`75
+What is 20% of 835?`167
+What is 30% of 270?`81
+What is 8 × 7 + 15?`71
+What is 6 × 9 - 17?`37
+What is 12 × 5 + 28?`88
+What is 7 × 8 - 23?`33
+What is 9 × 6 + 34?`88
+What is 4 × 15 + 19?`79
+What is 11 × 7 - 32?`45
+What is 8 × 9 + 16?`88
+What is 3 × 25 - 18?`57
+What is 6 × 12 + 27?`99
+What is 5 × 14 - 33?`37
+What is 7 × 11 + 24?`101
+What is 9 × 8 - 41?`31
+What is 13 × 4 + 22?`74
+What is 15 × 3 + 47?`92
+What is 6 × 8 + 5 × 7?`83
+What is 9 × 4 + 3 × 8?`60
+What is 7 × 7 - 2 × 9?`31
+What is 12 × 3 + 4 × 5?`56
+What is 8 × 6 - 3 × 7?`27
+What is 100 - 7 × 9?`37
+What is 200 - 13 × 8?`96
+What is 5 × 5 × 4?`100
+What is 3 × 8 × 5?`120
+What is 6 × 4 × 7?`168
+What is √144?`12
+What is √169?`13
+What is √196?`14
+What is √225?`15
+What is √256?`16
+What is √289?`17
+What is √324?`18
+What is √361?`19
+What is √400?`20
+What is √441?`21
+What is √484?`22
+What is √529?`23
+What is √576?`24
+What is √625?`25
+What is √81?`9
+What is 9 × 8 - 6 × 5?`42
+What is 7 × 6 - 4 × 3?`30
+What is 8 × 5 - 3 × 7?`19
+What is 12 × 4 - 7 × 5?`13
+What is 11 × 6 - 8 × 3?`42
+What is 9 × 7 - 5 × 8?`23
+What is 6 × 8 - 4 × 9?`12
+What is 15 × 3 - 7 × 4?`17
+What is 13 × 5 - 9 × 6?`11
+What is 8 × 7 - 3 × 9?`29
+What is 11 × 8 - 6 × 7?`46
+What is 12 × 6 - 5 × 9?`27
+What is 7 × 9 - 8 × 4?`31
+What is 14 × 3 - 6 × 5?`12
+What is 10 × 7 - 9 × 3?`43
+What is 2⁴?`16
+What is 2⁵?`32
+What is 2⁶?`64
+What is 2⁷?`128
+What is 2⁸?`256
+What is 2⁹?`512
+What is 2¹⁰?`1024
+What is 3³?`27
+What is 3⁴?`81
+What is 5³?`125

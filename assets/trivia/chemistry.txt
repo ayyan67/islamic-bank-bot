@@ -1,0 +1,94 @@
+What is the number of protons in a hydrogen atom?`1`One
+What is the number of protons in a carbon atom?`6`Six
+What is the number of protons in an oxygen atom?`8`Eight
+What subatomic particle has a positive charge?`Proton
+What subatomic particle has no electrical charge?`Neutron
+What subatomic particle has a negative charge?`Electron
+What is the heavy isotope of hydrogen with one neutron called?`Deuterium
+What is the dense center of an atom called?`Nucleus
+What are the electrons in the outermost shell called?`Valence electrons`Valence
+What rule states that atoms generally prefer to have eight valence electrons?`Octet rule`Octet
+What group on the periodic table contains unreactive gases like Helium and Neon?`Noble gases`Group 18
+What group contains highly reactive metals like Lithium and Sodium?`Alkali metals`Group 1
+What group contains highly reactive nonmetals like Fluorine and Chlorine?`Halogens`Group 17
+What element has the highest electronegativity on the periodic table?`Fluorine`F
+What type of bond is formed by two atoms sharing electrons?`Covalent bond`Covalent
+What type of bond is formed by transferring electrons between atoms?`Ionic bond`Ionic
+What specific type of intermolecular force holds water molecules together?`Hydrogen bond`Hydrogen bonding
+What is the phase change called when a solid turns directly into a gas?`Sublimation
+What is the phase change called when a gas turns directly into a solid?`Deposition
+What is the phase change called when a liquid turns into a gas?`Evaporation`Vaporization`Boiling
+What is the phase change called when a gas turns into a liquid?`Condensation
+What is the temperature and pressure point where solid, liquid, and gas coexist?`Triple point
+What phase of matter has a definite volume but no definite shape?`Liquid
+What phase of matter consists of a highly ionized gas?`Plasma
+What type of substance donates a proton (H+) in a reaction?`Acid
+What type of substance accepts a proton (H+) in a reaction?`Base
+What is the exact pH of pure water at 25 degrees Celsius?`7`Seven
+Does an acidic solution have a pH less than or greater than 7?`Less than 7`Less
+What is the pH of a 0.01 M HCl solution?`2`Two
+What is the pH of a 0.1 M HCl solution?`1`One
+What type of substance turns blue litmus paper red?`Acid
+What type of substance turns red litmus paper blue?`Base
+What is the chemical formula for hydrochloric acid?`HCl
+What is the chemical formula for sulfuric acid?`H2SO4
+What is the approximate molar mass of water (H2O) in g/mol?`18
+What is the approximate molar mass of carbon dioxide (CO2) in g/mol?`44
+What is the approximate molar mass of diatomic oxygen (O2) in g/mol?`32
+What is the constant representing the number of particles in one mole called?`Avogadro's number`Avogadro
+Balance this equation: _ H2 + O2 -> 2 H2O. What is the missing coefficient?`2`Two
+Balance this equation: N2 + _ H2 -> 2 NH3. What is the missing coefficient?`3`Three
+Balance this equation: CH4 + _ O2 -> CO2 + 2 H2O. What is the missing coefficient?`2`Two
+If you have 2 moles of Carbon atoms, how many grams is that?`24
+How many moles are in 36 grams of water?`2`Two
+How many moles are in 100 grams of calcium carbonate (CaCO3)?`1`One
+What is the formula for the Ideal Gas Law?`PV=nRT
+What is standard temperature in Celsius for STP?`0`Zero
+What is standard pressure in atmospheres for STP?`1`One
+How many liters does one mole of an ideal gas occupy at STP?`22.4
+In a 1 Molar NaCl solution, how many moles of NaCl are in 2 Liters?`2`Two
+What branch of chemistry focuses on carbon-containing compounds?`Organic chemistry`Organic
+What is an alkane with exactly one carbon atom called?`Methane
+What is an alkane with exactly two carbon atoms called?`Ethane
+What is an alkane with exactly three carbon atoms called?`Propane
+What is an alkane with exactly four carbon atoms called?`Butane
+What is an alkane with exactly eight carbon atoms called?`Octane
+What is the IUPAC suffix for a hydrocarbon containing only single bonds?`-ane`ane
+What is the IUPAC suffix for a hydrocarbon containing at least one double bond?`-ene`ene
+What is the IUPAC suffix for a hydrocarbon containing at least one triple bond?`-yne`yne
+What organic functional group features an -OH group attached to a carbon?`Alcohol`Hydroxyl
+What is the simplest alcohol containing only one carbon atom?`Methanol
+What is the two-carbon alcohol commonly found in beverages?`Ethanol
+What functional group features a carbonyl (C=O) at the end of a carbon chain?`Aldehyde
+What functional group features a carbonyl (C=O) in the middle of a carbon chain?`Ketone
+What organic functional group contains a -COOH group?`Carboxylic acid
+What is the common household name for dilute ethanoic acid?`Vinegar`Acetic acid
+What functional group is created by the reaction of an alcohol and a carboxylic acid?`Ester
+What basic functional group is characterized by containing a nitrogen atom?`Amine
+What is a benzene ring called when attached to a parent chain as a substituent?`Phenyl`Phenyl group
+How many carbon atoms are in a single benzene ring?`6`Six
+Are alkanes classified as saturated or unsaturated hydrocarbons?`Saturated
+Are alkenes classified as saturated or unsaturated hydrocarbons?`Unsaturated
+What is the 3D molecular geometry of a carbon atom with four single bonds?`Tetrahedral
+What is the approximate bond angle of a tetrahedral carbon in degrees?`109.5`109
+What is the 3D molecular geometry of a carbon with one double bond and two single bonds?`Trigonal planar
+What is the approximate bond angle of a trigonal planar carbon in degrees?`120
+What rule states that adding HX to an alkene puts H on the carbon with more hydrogens?`Markovnikov's rule`Markovnikov
+What do we call molecules with the same formula but different atomic connectivity?`Isomers`Constitutional isomers`Structural isomers
+What do we call chiral molecules that are non-superimposable mirror images?`Enantiomers
+What is a 50/50 mixture of two enantiomers called?`Racemic mixture`Racemate
+What type of substance speeds up a reaction by lowering the activation energy?`Catalyst
+What are the specialized biological proteins that act as catalysts in the body?`Enzymes`Enzyme
+What thermodynamic term describes a reaction that releases heat?`Exothermic
+What thermodynamic term describes a reaction that absorbs heat?`Endothermic
+What capital letter is the thermodynamic symbol for enthalpy?`H
+What thermodynamic concept measures disorder or randomness in a system?`Entropy
+What capital letter is the thermodynamic symbol for entropy?`S
+What thermodynamic value determines if a reaction is spontaneous?`Gibbs free energy`Gibbs
+For a reaction to be spontaneous, must Delta G be positive or negative?`Negative
+What principle states that a system at equilibrium shifts to counteract a disturbance?`Le Chatelier's principle`Le Chatelier
+What is the chemical term for the loss of electrons in a redox reaction?`Oxidation
+What is the chemical term for the gain of electrons in a redox reaction?`Reduction
+What common three-word mnemonic helps students remember redox electron transfers?`OIL RIG
+What are the fundamental organic building blocks of all proteins?`Amino acids
+What type of covalent bond connects amino acids together in a protein?`Peptide bond`Peptide

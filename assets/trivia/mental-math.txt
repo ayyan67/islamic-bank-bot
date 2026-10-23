@@ -1,0 +1,300 @@
+What is 37 + 50?`87
+What is 16 + 86?`102
+What is 48 + 12?`60
+What is 44 + 52?`96
+What is 48 + 88?`136
+What is 12 + 28?`40
+What is 74 + 68?`142
+What is 96 + 36?`132
+What is 54 + 10?`64
+What is 26 + 22?`48
+What is 86 + 96?`182
+What is 68 + 74?`142
+What is 48 + 24?`72
+What is 36 + 48?`84
+What is 78 + 98?`176
+What is 12 + 36?`48
+What is 58 + 82?`140
+What is 42 + 74?`116
+What is 10 + 33?`43
+What is 96 + 60?`156
+What is 58 + 26?`84
+What is 82 + 38?`120
+What is 44 + 20?`64
+What is 76 + 12?`88
+What is 18 + 46?`64
+What is 40 + 70?`110
+What is 64 + 64?`128
+What is 30 + 98?`128
+What is 60 + 30?`90
+What is 38 + 58?`96
+What is 84 + 66?`150
+What is 82 + 52?`134
+What is 94 + 66?`160
+What is 68 + 38?`106
+What is 82 + 28?`110
+What is 20 + 18?`38
+What is 74 + 14?`88
+What is 16 + 16?`32
+What is 34 + 44?`78
+What is 32 + 76?`108
+What is 90 + 90?`180
+What is 60 + 24?`84
+What is 30 + 14?`44
+What is 10 + 36?`46
+What is 34 + 88?`122
+What is 50 + 96?`146
+What is 22 + 22?`44
+What is 42 + 66?`108
+What is 38 + 52?`90
+What is 46 + 12?`58
+What is 78 + 22?`100
+What is 92 + 90?`182
+What is 24 + 86?`110
+What is 92 + 80?`172
+What is 40 + 22?`62
+What is 62 + 80?`142
+What is 68 + 34?`102
+What is 84 + 88?`172
+What is 46 + 90?`136
+What is 44 + 46?`90
+What is 22 + 58?`80
+What is 82 + 56?`138
+What is 40 + 62?`102
+What is 70 + 98?`168
+What is 24 + 48?`72
+What is 96 + 82?`178
+What is 44 + 16?`60
+What is 94 + 62?`156
+What is 14 + 14?`28
+What is 44 + 60?`104
+What is 14 + 32?`46
+What is 46 + 58?`104
+What is 72 + 30?`102
+What is 90 + 62?`152
+What is 38 + 36?`74
+What is 62 + 52?`114
+What is 84 + 34?`118
+What is 68 + 36?`104
+What is 24 + 88?`112
+What is 86 + 80?`166
+What is 70 + 88?`158
+What is 56 + 32?`88
+What is 48 + 30?`78
+What is 26 + 70?`96
+What is 50 + 46?`96
+What is 80 + 12?`92
+What is 36 + 32?`68
+What is 10 + 68?`78
+What is 70 + 28?`98
+What is 50 + 72?`122
+What is 52 + 32?`84
+What is 48 + 84?`132
+What is 92 + 40?`132
+What is 16 + 42?`58
+What is 98 + 64?`162
+What is 78 + 90?`168
+What is 56 + 96?`152
+What is 96 + 68?`164
+What is 84 + 98?`182
+What is 46 + 56?`102
+What is 64 - 46?`18
+What is 74 - 42?`32
+What is 64 - 18?`46
+What is 52 - 22?`30
+What is 68 - 34?`34
+What is 80 - 40?`40
+What is 80 - 60?`20
+What is 24 - 16?`8
+What is 34 - 16?`18
+What is 91 - 14?`77
+What is 78 - 36?`42
+What is 58 - 36?`22
+What is 94 - 40?`54
+What is 80 - 42?`38
+What is 82 - 16?`66
+What is 64 - 62?`2
+What is 80 - 14?`66
+What is 48 - 20?`28
+What is 94 - 78?`16
+What is 44 - 10?`34
+What is 28 - 18?`10
+What is 62 - 36?`26
+What is 96 - 14?`82
+What is 64 - 48?`16
+What is 68 - 66?`2
+What is 20 - 12?`8
+What is 74 - 72?`2
+What is 46 - 32?`14
+What is 76 - 34?`42
+What is 80 - 28?`52
+What is 62 - 52?`10
+What is 20 - 18?`2
+What is 86 - 82?`4
+What is 44 - 24?`20
+What is 64 - 22?`42
+What is 62 - 26?`36
+What is 92 - 22?`70
+What is 90 - 40?`50
+What is 68 - 60?`8
+What is 92 - 34?`58
+What is 82 - 62?`20
+What is 60 - 10?`50
+What is 44 - 30?`14
+What is 82 - 26?`56
+What is 68 - 16?`52
+What is 56 - 18?`38
+What is 70 - 28?`42
+What is 78 - 52?`26
+What is 98 - 16?`82
+What is 94 - 86?`8
+What is 92 - 18?`74
+What is 54 - 46?`8
+What is 68 - 54?`14
+What is 62 - 58?`4
+What is 82 - 54?`28
+What is 92 - 54?`38
+What is 66 - 40?`26
+What is 84 - 74?`10
+What is 64 - 52?`12
+What is 92 - 16?`76
+What is 44 - 40?`4
+What is 98 - 12?`86
+What is 38 - 20?`18
+What is 72 - 14?`58
+What is 74 - 62?`12
+What is 98 - 36?`62
+What is 58 - 46?`12
+What is 60 - 16?`44
+What is 80 - 72?`8
+What is 74 - 28?`46
+What is 22 - 16?`6
+What is 56 - 48?`8
+What is 80 - 52?`28
+What is 42 - 10?`32
+What is 82 - 72?`10
+What is 72 - 40?`32
+What is 90 - 24?`66
+What is 32 - 24?`8
+What is 70 - 34?`36
+What is 96 - 20?`76
+What is 84 - 10?`74
+What is 76 - 24?`52
+What is 94 - 70?`24
+What is 44 - 36?`8
+What is 92 - 62?`30
+What is 98 - 20?`78
+What is 96 - 72?`24
+What is 96 - 74?`22
+What is 50 - 18?`32
+What is 86 - 78?`8
+What is 26 - 24?`2
+What is 78 - 64?`14
+What is 66 - 10?`56
+What is 36 - 20?`16
+What is 98 - 22?`76
+What is 82 - 70?`12
+What is 76 - 48?`28
+What is 96 - 64?`32
+What is 84 - 28?`56
+What is 86 - 42?`44
+What is 72 + 32?`104
+What is 48 + 62?`110
+What is 88 + 60?`148
+What is 24 + 54?`78
+What is 74 + 84?`158
+What is 12 + 44?`56
+What is 38 + 48?`86
+What is 60 + 52?`112
+What is 58 + 88?`146
+What is 20 + 44?`64
+What is 88 + 98?`186
+What is 76 + 64?`140
+What is 40 + 18?`58
+What is 38 + 50?`88
+What is 84 + 52?`136
+What is 92 + 52?`144
+What is 87 + 36?`123
+What is 18 + 18?`36
+What is 54 + 68?`122
+What is 72 + 40?`112
+What is 28 + 22?`50
+What is 58 + 16?`74
+What is 84 + 24?`108
+What is 84 + 94?`178
+What is 98 + 70?`168
+What is 98 + 18?`116
+What is 84 + 92?`176
+What is 82 + 18?`100
+What is 68 + 86?`154
+What is 86 + 62?`148
+What is 44 + 48?`92
+What is 86 + 36?`122
+What is 96 + 10?`106
+What is 78 + 12?`90
+What is 62 + 76?`138
+What is 56 + 86?`142
+What is 92 + 14?`106
+What is 24 + 62?`86
+What is 38 + 14?`52
+What is 34 + 66?`100
+What is 50 + 92?`142
+What is 36 + 40?`76
+What is 40 + 92?`132
+What is 38 + 84?`122
+What is 88 + 24?`112
+What is 66 + 14?`80
+What is 92 + 70?`162
+What is 72 + 26?`98
+What is 12 + 80?`92
+What is 78 + 72?`150
+What is 60 + 70 + 94?`224
+What is 62 + 42 + 42?`146
+What is 90 + 80 + 94?`264
+What is 26 + 88 + 56?`170
+What is 58 + 54 + 68?`180
+What is 66 + 92 + 30?`188
+What is 52 + 14 + 26?`92
+What is 20 + 22 + 68?`110
+What is 44 + 64 + 28?`136
+What is 62 + 98 + 88?`248
+What is 64 + 80 + 12?`156
+What is 64 + 78 + 92?`234
+What is 52 + 18 + 60?`130
+What is 84 + 12 + 64?`160
+What is 88 + 12 + 78?`178
+What is 38 + 64 + 70?`172
+What is 18 + 60 + 50?`128
+What is 66 + 80 + 10?`156
+What is 62 + 60 + 72?`194
+What is 24 + 66 + 70?`160
+What is 16 + 26 + 16?`58
+What is 50 + 46 + 70?`166
+What is 52 + 74 + 50?`176
+What is 72 + 76 + 10?`158
+What is 46 + 94 + 46?`186
+What is 90 + 88 - 44?`134
+What is 50 + 44 - 24?`70
+What is 50 + 80 - 14?`116
+What is 94 + 14 - 30?`78
+What is 84 + 80 - 62?`102
+What is 78 + 16 - 90?`4
+What is 82 + 16 - 10?`88
+What is 38 + 60 - 20?`78
+What is 68 + 28 - 22?`74
+What is 10 + 74 - 56?`28
+What is 32 + 44 - 22?`54
+What is 92 + 76 - 64?`104
+What is 14 + 84 - 78?`20
+What is 86 + 62 - 60?`88
+What is 88 + 18 - 16?`90
+What is 23 + 96 - 42?`77
+What is 46 + 56 - 78?`24
+What is 80 + 98 - 50?`128
+What is 58 + 42 - 58?`42
+What is 86 + 68 - 78?`76
+What is 32 + 54 - 78?`8
+What is 26 + 50 - 60?`16
+What is 68 + 48 - 80?`36
+What is 40 + 40 - 72?`8
+What is 42 + 16 - 28?`30

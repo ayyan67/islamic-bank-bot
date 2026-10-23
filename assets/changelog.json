@@ -1,0 +1,31 @@
+[
+  {
+    "version": "2.48.1",
+    "date": "2026-10-07",
+    "title": "Digest Cleanup",
+    "changes": [
+      "📰 Weekly digest and `/leaderboard streaks` now only rank members of this server",
+      "🔥 Timely streaks in the digest show the span they cover, e.g. \"893 in a row (~37 days)\""
+    ]
+  },
+  {
+    "version": "2.48.0",
+    "date": "2026-10-07",
+    "title": "Home Server Economy",
+    "changes": [
+      "💰 Rewards (timely, prayer, Eid, trivia payouts, daily challenges) can now only be earned in muslim.chat, or in DMs if you are a member — balances are shared everywhere, so this keeps the economy fair",
+      "⚙️ Economy settings (reward amounts and cooldowns) only apply in the home server; other servers keep cosmetic settings like vault privacy",
+      "🛠️ Clear message when a reward command is used somewhere it cannot earn"
+    ]
+  },
+  {
+    "version": "2.47.1",
+    "date": "2026-09-29",
+    "title": "Prayer Checklist Clarity",
+    "changes": [
+      "🕌 `/prayer status` and `/status` now say when the prayer checklist resets (midnight UTC) instead of just \"today\"",
+      "🕌 The \"already checked in\" message tells you how long until the checklist resets",
+      "📚 Clarified: streaks only need one check-in per day, so your time zone never breaks them"
+    ]
+  }
+]

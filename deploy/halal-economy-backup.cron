@@ -1,0 +1,6 @@
+# Nightly consistent backup of the HalalEconomyBot database + config.
+# Installed to /etc/cron.d/halal-economy-backup by deploy.sh.
+# botctl backup snapshots SQLite safely (online .backup + integrity check),
+# archives to /root/backups, and prunes archives older than 14 days.
+PATH=/usr/local/bin:/usr/bin:/bin
+30 4 * * * root /usr/local/bin/botctl backup >> /var/log/halal-economy-backup.log 2>&1
