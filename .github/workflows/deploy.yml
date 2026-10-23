@@ -1,9 +1,7 @@
 name: Deploy
 
+# Manual only in this public snapshot; production deploys from the private repo.
 on:
-  push:
-    branches:
-      - main
   workflow_dispatch: {}
 
 jobs:
